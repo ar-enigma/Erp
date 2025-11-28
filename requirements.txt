@@ -1,0 +1,7 @@
+# The necessary ERPNext apps for your SaaS model
+https://github.com/frappe/hospitality
+https://github.com/frappe/education
+# The best offline POS solution
+https://github.com/childish-pandan/POS-Awesome # Community fork
+# Add your custom SaaS management app here once you develop it
+# git+https://github.com/your-repo/enigma_saas_setup.git
